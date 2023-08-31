@@ -1,0 +1,28 @@
+{
+  "ant perf": [
+  ],
+  "capybara hidden": [
+  ],
+  "cardin": [
+  ],
+  "four six": [
+  ],
+  "hello world": [
+    {
+      "count": 8,
+      "score": 1.00000000,
+      "where": "https://usf-cs272-spring2023.github.io/project-web/input/simple/hello.html"
+    },
+    {
+      "count": 6,
+      "score": 1.00000000,
+      "where": "input/text/simple/hello.txt"
+    }
+  ],
+  "lori": [
+  ],
+  "observ perfor": [
+  ],
+  "perform": [
+  ]
+}
