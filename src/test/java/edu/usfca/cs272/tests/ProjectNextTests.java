@@ -56,4 +56,17 @@ public class ProjectNextTests {
 		testNoExceptions(args, SHORT_TIMEOUT);
 		Assertions.assertFalse(Files.exists(RESULTS.path), debug);
 	}
+
+	/**
+	 * Tests that next project functionality is not present.
+	 *
+	 * @throws Exception if an error occurs
+	 */
+	@Test
+	@Tag("next-v2.0")
+	@Tag("next-v2.1")
+	@Tag("next-v2.x")
+	public void pass() throws Exception {
+		// No next tests for these releases!
+	}
 }
