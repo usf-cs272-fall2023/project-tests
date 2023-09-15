@@ -13,6 +13,23 @@
       "where": "input/text/simple/capital_extension.TXT"
     }
   ],
+  "capybara hidden observ": [
+    {
+      "count": 1,
+      "score": 1.00000000,
+      "where": "input/text/simple/.txt/hidden.txt"
+    },
+    {
+      "count": 1,
+      "score": 1.00000000,
+      "where": "input/text/simple/capital_extension.TXT"
+    },
+    {
+      "count": 11,
+      "score": 0.30555556,
+      "where": "input/text/simple/words.tExT"
+    }
+  ],
   "cardin": [
   ],
   "four six": [
