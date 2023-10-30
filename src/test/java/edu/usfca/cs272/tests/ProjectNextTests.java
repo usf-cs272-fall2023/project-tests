@@ -4,10 +4,15 @@ import static edu.usfca.cs272.tests.ProjectFlag.INDEX;
 import static edu.usfca.cs272.tests.ProjectFlag.QUERY;
 import static edu.usfca.cs272.tests.ProjectFlag.RESULTS;
 import static edu.usfca.cs272.tests.ProjectFlag.TEXT;
+import static edu.usfca.cs272.tests.ProjectFlag.THREADS;
+import static edu.usfca.cs272.tests.ProjectPath.GUTEN;
 import static edu.usfca.cs272.tests.ProjectPath.HELLO;
 import static edu.usfca.cs272.tests.ProjectPath.QUERY_SIMPLE;
+import static edu.usfca.cs272.tests.ProjectTests.LONG_TIMEOUT;
 import static edu.usfca.cs272.tests.ProjectTests.SHORT_TIMEOUT;
+import static edu.usfca.cs272.tests.ProjectTests.testMultithreaded;
 import static edu.usfca.cs272.tests.ProjectTests.testNoExceptions;
+import static org.junit.jupiter.api.Assertions.fail;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -15,6 +20,8 @@ import java.nio.file.Files;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
+import org.opentest4j.AssertionFailedError;
+import org.opentest4j.MultipleFailuresError;
 
 /**
  * Tests that next project code is not in the current project. This class should
@@ -63,9 +70,38 @@ public class ProjectNextTests {
 	 * @throws Exception if an error occurs
 	 */
 	@Test
+	@Tag("next-v1.0")
+	@Tag("next-v1.1")
+	@Tag("next-v1.x")
 	@Tag("next-v2.0")
 	@Tag("next-v2.1")
 	@Tag("next-v2.x")
+	public void testThread() throws Exception {
+		String[] args = { TEXT.flag, GUTEN.text, THREADS.flag, "2" };
+
+		try {
+			// should fail and throw an error
+			testMultithreaded(() -> testNoExceptions(args, LONG_TIMEOUT));
+		}
+		catch (AssertionFailedError | MultipleFailuresError e) {
+			Assertions.assertNotNull(e);
+			return;
+		}
+
+		// should return before here
+		fail(debug);
+	}
+
+	/**
+	 * Tests that next project functionality is not present.
+	 *
+	 * @throws Exception if an error occurs
+	 */
+	@Test
+	@Tag("next-v3.0")
+	@Tag("next-v3.1")
+	@Tag("next-v3.2")
+	@Tag("next-v3.x")
 	public void pass() throws Exception {
 		// No next tests for these releases!
 	}
