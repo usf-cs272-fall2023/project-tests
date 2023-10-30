@@ -485,16 +485,24 @@ public class ProjectTests {
 		try {
 			Files.createDirectories(ACTUAL.path);
 
-			// delete any old files located in actual directory
-			System.out.println("Cleaning up old actual files...");
-			Files.walk(ACTUAL.path).filter(Files::isRegularFile).forEach(path -> {
-				try {
-					Files.delete(path);
-				}
-				catch (IOException e) {
-					System.out.println("Warning: Unable to delete actual file " + path.toString());
-				}
-			});
+			// check system environment
+			Map<String, String> env = System.getenv();
+			
+			if (!env.containsKey("SKIP_ACTUAL_CLEANUP")) {
+				// delete any old files located in actual directory
+				System.out.println("Cleaning up old actual files...");
+				Files.walk(ACTUAL.path).filter(Files::isRegularFile).forEach(path -> {
+					try {
+						Files.delete(path);
+					}
+					catch (IOException e) {
+						System.out.println("Warning: Unable to delete actual file " + path.toString());
+					}
+				});
+			}
+			else {
+				System.out.println("Skipping actual files cleanup...");
+			}
 		}
 		catch (IOException e) {
 			Assertions.fail("Unable to create actual output directory.");
