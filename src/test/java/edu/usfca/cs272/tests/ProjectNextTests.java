@@ -15,7 +15,10 @@ import static edu.usfca.cs272.tests.ProjectTests.testNoExceptions;
 import static org.junit.jupiter.api.Assertions.fail;
 
 import java.io.IOException;
+import java.net.URL;
 import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.Map;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Tag;
@@ -98,10 +101,94 @@ public class ProjectNextTests {
 	 * @throws Exception if an error occurs
 	 */
 	@Test
+	@Tag("next-v1.0")
+	@Tag("next-v1.1")
+	@Tag("next-v1.x")
+	@Tag("next-v2.0")
+	@Tag("next-v2.1")
+	@Tag("next-v2.x")
 	@Tag("next-v3.0")
 	@Tag("next-v3.1")
 	@Tag("next-v3.2")
 	@Tag("next-v3.x")
+	public void testHtmlPage() throws Exception {
+		URL base = new URL(CrawlPageTests.GITHUB);
+		URL url = new URL(base, "input/simple/hello.html");
+
+		String[] args = {
+				ProjectFlag.HTML.flag, url.toString(),
+				ProjectFlag.INDEX.flag
+		};
+
+		Path actual = ProjectFlag.INDEX.path;
+		Path expected = ProjectPath.EXPECTED.resolve("crawl").resolve("simple").resolve("hello-index.json");
+
+		try {
+			// should fail and throw an error
+			ProjectTests.checkOutput(args, Map.of(actual, expected));
+		}
+		catch (AssertionFailedError | MultipleFailuresError e) {
+			Assertions.assertNotNull(e);
+			return;
+		}
+
+		// should return before here
+		fail(debug);
+	}
+
+	/**
+	 * Tests that next project functionality is not present.
+	 *
+	 * @throws Exception if an error occurs
+	 */
+	@Test
+	@Tag("next-v1.0")
+	@Tag("next-v1.1")
+	@Tag("next-v1.x")
+	@Tag("next-v2.0")
+	@Tag("next-v2.1")
+	@Tag("next-v2.x")
+	@Tag("next-v3.0")
+	@Tag("next-v3.1")
+	@Tag("next-v3.2")
+	@Tag("next-v3.x")
+	@Tag("next-v4.0")
+	public void testHtmlSite() throws Exception {
+		URL base = new URL(CrawlPageTests.GITHUB);
+		URL url = new URL(base, "input/simple/");
+
+		String[] args = {
+				ProjectFlag.HTML.flag, url.toString(),
+				ProjectFlag.MAX.flag, Integer.toString(15),
+				ProjectFlag.COUNTS.flag
+		};
+
+		Path actual = ProjectFlag.COUNTS.path;
+		Path expected = ProjectPath.EXPECTED.resolve("crawl").resolve("simple").resolve("simple-15-counts.json");
+
+		try {
+			// should fail and throw an error
+			ProjectTests.checkOutput(args, Map.of(actual, expected));
+		}
+		catch (AssertionFailedError | MultipleFailuresError e) {
+			Assertions.assertNotNull(e);
+			return;
+		}
+
+		// should return before here
+		fail(debug);
+	}
+
+	/**
+	 * Tests that next project functionality is not present.
+	 *
+	 * @throws Exception if an error occurs
+	 */
+	@Test
+	@Tag("next-v4.1")
+	@Tag("next-v4.x")
+	@Tag("next-v5.0")
+	@Tag("test-v5.0")
 	public void pass() throws Exception {
 		// No next tests for these releases!
 	}
