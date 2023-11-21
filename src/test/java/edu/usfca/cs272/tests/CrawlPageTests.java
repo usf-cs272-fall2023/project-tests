@@ -78,8 +78,7 @@ public class CrawlPageTests extends ProjectTests {
 			"simple, stems,    input/simple/stems.html",
 			"simple, symbols,  input/simple/symbols.html",
 			"simple, dir,      input/simple/dir.txt",
-			"simple, wrong,    input/simple/wrong_extension.html",
-			"simple, stems,    input/simple/stems.html"
+			"simple, wrong,    input/simple/wrong_extension.html"
 		})
 		public void testSimple(String subdir, String id, String seed) throws MalformedURLException {
 			testIndex(seed, subdir, id);
