@@ -1,0 +1,2994 @@
+{
+  "a": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      70,
+      307,
+      330,
+      354,
+      376,
+      398,
+      620,
+      767,
+      1146,
+      1277,
+      1352,
+      1377,
+      1388,
+      1392,
+      1456,
+      1484,
+      1495,
+      1499,
+      1568,
+      1595,
+      1628,
+      1662,
+      1700,
+      1722,
+      1761
+    ]
+  },
+  "about": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      69
+    ]
+  },
+  "ad": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      82,
+      619
+    ]
+  },
+  "addit": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      76,
+      699,
+      732,
+      758,
+      793,
+      818,
+      876,
+      899,
+      922,
+      949
+    ]
+  },
+  "affili": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1770,
+      1781
+    ]
+  },
+  "all": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      40,
+      288,
+      1337
+    ]
+  },
+  "allow": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1134
+    ]
+  },
+  "alongsid": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1131
+    ]
+  },
+  "alwaysstrict": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      959
+    ]
+  },
+  "an": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      454,
+      971,
+      987,
+      1024,
+      1029,
+      1168,
+      1198,
+      1216,
+      1220,
+      1299,
+      1726
+    ]
+  },
+  "and": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      293,
+      660,
+      714,
+      739,
+      764,
+      931,
+      956,
+      1326,
+      1409,
+      1427,
+      1441,
+      1468,
+      1516,
+      1534,
+      1548,
+      1580,
+      1614,
+      1681,
+      1732,
+      1753,
+      1774,
+      1796
+    ]
+  },
+  "andor": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1768,
+      1779
+    ]
+  },
+  "ani": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1432,
+      1539
+    ]
+  },
+  "annot": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      654,
+      1221
+    ]
+  },
+  "api": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1125,
+      1142,
+      1157,
+      1176,
+      1196,
+      1199,
+      1730
+    ]
+  },
+  "appli": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1410,
+      1517
+    ]
+  },
+  "appropri": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      60
+    ]
+  },
+  "are": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      467,
+      984,
+      1000,
+      1038
+    ]
+  },
+  "argument": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1076
+    ]
+  },
+  "array": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      455,
+      972,
+      988
+    ]
+  },
+  "as": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      539,
+      1215
+    ]
+  },
+  "assert": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      622
+    ]
+  },
+  "augment": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      535
+    ]
+  },
+  "autobox": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      655
+    ]
+  },
+  "be": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      81,
+      418,
+      1050,
+      1091,
+      1100,
+      1123,
+      1247
+    ]
+  },
+  "binari": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      712
+    ]
+  },
+  "block": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      905
+    ]
+  },
+  "boolean": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      298,
+      321,
+      332,
+      343,
+      356,
+      367,
+      387,
+      1268,
+      1368,
+      1425,
+      1473,
+      1532,
+      1586,
+      1597,
+      1631,
+      1643,
+      1651,
+      1664,
+      1703,
+      1715
+    ]
+  },
+  "bug": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1723
+    ]
+  },
+  "by": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      119,
+      127,
+      137,
+      147,
+      157,
+      167,
+      177,
+      187,
+      197,
+      207,
+      218,
+      229,
+      240,
+      250,
+      260,
+      270,
+      280,
+      430,
+      527,
+      560,
+      591,
+      612,
+      633,
+      673,
+      693,
+      726,
+      752,
+      787,
+      812,
+      838,
+      854,
+      870,
+      893,
+      916,
+      943,
+      1114,
+      1155,
+      1194,
+      1260,
+      1309,
+      1397,
+      1504
+    ]
+  },
+  "ca": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1786
+    ]
+  },
+  "can": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      417,
+      1090,
+      1099,
+      1164
+    ]
+  },
+  "chang": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      600,
+      681
+    ]
+  },
+  "charact": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1037,
+      1301,
+      1310,
+      1399,
+      1506
+    ]
+  },
+  "characterisjavaidentifierpartint": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1313
+    ]
+  },
+  "characterisjavaidentifierstartint": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1304
+    ]
+  },
+  "check": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1345,
+      1411,
+      1449,
+      1518,
+      1556,
+      1622,
+      1689
+    ]
+  },
+  "class": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      10,
+      35,
+      92,
+      98,
+      445,
+      462,
+      472,
+      488,
+      538,
+      955,
+      979,
+      995,
+      1014,
+      1034,
+      1065
+    ]
+  },
+  "classesinterfac": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      95
+    ]
+  },
+  "clone": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      474
+    ]
+  },
+  "code": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1225,
+      1755
+    ]
+  },
+  "comparablesourcevers": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      44
+    ]
+  },
+  "compareto": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      475
+    ]
+  },
+  "conceptu": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1747
+    ]
+  },
+  "configur": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1191
+    ]
+  },
+  "consist": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1297
+    ]
+  },
+  "constabl": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      45
+    ]
+  },
+  "constant": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      21,
+      26,
+      79,
+      104,
+      107,
+      109,
+      442,
+      458,
+      497,
+      975,
+      991,
+      1011,
+      1031,
+      1048,
+      1055,
+      1068
+    ]
+  },
+  "constructor": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      707
+    ]
+  },
+  "contain": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      456,
+      973,
+      989,
+      1741
+    ]
+  },
+  "copyright": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1777
+    ]
+  },
+  "countri": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1776
+    ]
+  },
+  "current": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      432,
+      1116,
+      1230,
+      1262
+    ]
+  },
+  "declar": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      96,
+      468,
+      470,
+      486,
+      985,
+      1001,
+      1028
+    ]
+  },
+  "default": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      740
+    ]
+  },
+  "definit": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1749
+    ]
+  },
+  "deprec": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      15
+    ]
+  },
+  "describ": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      510,
+      540,
+      569,
+      641
+    ]
+  },
+  "describeconst": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      476
+    ]
+  },
+  "descript": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      110,
+      296,
+      1745
+    ]
+  },
+  "detail": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      24,
+      498,
+      964,
+      1218,
+      1743
+    ]
+  },
+  "develop": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1733
+    ]
+  },
+  "developertarget": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1744
+    ]
+  },
+  "diamond": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      704
+    ]
+  },
+  "differ": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1149
+    ]
+  },
+  "document": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1734,
+      1739,
+      1798
+    ]
+  },
+  "each": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1413,
+      1520
+    ]
+  },
+  "earlier": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1203,
+      1248
+    ]
+  },
+  "edit": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      61,
+      132,
+      142,
+      152,
+      162,
+      172,
+      182,
+      192,
+      202,
+      212,
+      223,
+      234,
+      245,
+      255,
+      265,
+      275,
+      285,
+      517,
+      550,
+      565,
+      576,
+      596,
+      617,
+      638,
+      648,
+      678,
+      698,
+      731,
+      757,
+      792,
+      817,
+      843,
+      859,
+      875,
+      898,
+      921,
+      948
+    ]
+  },
+  "enhanc": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      657,
+      1727
+    ]
+  },
+  "enum": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      20,
+      25,
+      34,
+      47,
+      102,
+      103,
+      106,
+      108,
+      441,
+      461,
+      496,
+      978,
+      994,
+      1010,
+      1030,
+      1047,
+      1054,
+      1064
+    ]
+  },
+  "enumenumdesc": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      100
+    ]
+  },
+  "enumsourcevers": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      50
+    ]
+  },
+  "environ": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      434,
+      1118,
+      1232,
+      1264
+    ]
+  },
+  "equal": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      477
+    ]
+  },
+  "exact": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1023
+    ]
+  },
+  "exampl": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1756
+    ]
+  },
+  "execut": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      433,
+      1117,
+      1231,
+      1263
+    ]
+  },
+  "express": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      738,
+      882
+    ]
+  },
+  "extend": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      49,
+      101
+    ]
+  },
+  "extran": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1035
+    ]
+  },
+  "facil": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      623
+    ]
+  },
+  "fals": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1330,
+      1335,
+      1358,
+      1422,
+      1460,
+      1529,
+      1572,
+      1610,
+      1636,
+      1677,
+      1708
+    ]
+  },
+  "featur": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1239
+    ]
+  },
+  "field": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      22,
+      27
+    ]
+  },
+  "final": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      478,
+      502,
+      521,
+      554,
+      585,
+      606,
+      627,
+      667,
+      687,
+      720,
+      746,
+      781,
+      806,
+      832,
+      848,
+      864,
+      887,
+      910,
+      937
+    ]
+  },
+  "first": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      516,
+      549,
+      649
+    ]
+  },
+  "floatingpoint": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      662,
+      960
+    ]
+  },
+  "follow": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1307
+    ]
+  },
+  "for": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      67,
+      658,
+      706,
+      825,
+      929,
+      1302,
+      1311,
+      1336,
+      1423,
+      1438,
+      1530,
+      1545,
+      1611,
+      1678,
+      1728
+    ]
+  },
+  "from": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      601,
+      682,
+      770
+    ]
+  },
+  "fulli": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      428,
+      1112,
+      1258
+    ]
+  },
+  "further": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1729
+    ]
+  },
+  "futur": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      85
+    ]
+  },
+  "generat": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1224
+    ]
+  },
+  "generic": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      653
+    ]
+  },
+  "getclass": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      490
+    ]
+  },
+  "getdeclaringclass": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      479
+    ]
+  },
+  "given": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      363,
+      405,
+      1491,
+      1671
+    ]
+  },
+  "has": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1066
+    ]
+  },
+  "hashcod": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      480
+    ]
+  },
+  "help": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      17
+    ]
+  },
+  "hexadecim": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      661
+    ]
+  },
+  "ide": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1169
+    ]
+  },
+  "identif": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1135
+    ]
+  },
+  "identifi": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      310,
+      775,
+      1025,
+      1280,
+      1320,
+      1325,
+      1355,
+      1364,
+      1395,
+      1443,
+      1469,
+      1502,
+      1550,
+      1581,
+      1616,
+      1683
+    ]
+  },
+  "if": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1062,
+      1074,
+      1167,
+      1219,
+      1294,
+      1348,
+      1452,
+      1564,
+      1625,
+      1697
+    ]
+  },
+  "illegalargumentexcept": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1061
+    ]
+  },
+  "implement": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      41,
+      1217
+    ]
+  },
+  "in": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      97,
+      315,
+      337,
+      361,
+      381,
+      403,
+      463,
+      471,
+      487,
+      511,
+      541,
+      570,
+      642,
+      700,
+      710,
+      733,
+      759,
+      794,
+      819,
+      877,
+      900,
+      923,
+      950,
+      980,
+      996,
+      1032,
+      1189,
+      1285,
+      1382,
+      1415,
+      1431,
+      1489,
+      1522,
+      1538,
+      1602,
+      1669,
+      1771
+    ]
+  },
+  "includ": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      578,
+      703,
+      736,
+      762,
+      797,
+      822,
+      880,
+      903,
+      926,
+      953,
+      1130
+    ]
+  },
+  "index": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      16
+    ]
+  },
+  "infer": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      800
+    ]
+  },
+  "inform": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      68
+    ]
+  },
+  "initi": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1300
+    ]
+  },
+  "input": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1404,
+      1511
+    ]
+  },
+  "instanceof": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      930
+    ]
+  },
+  "interfac": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      42
+    ]
+  },
+  "into": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1406,
+      1513
+    ]
+  },
+  "is": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      306,
+      329,
+      353,
+      375,
+      397,
+      533,
+      1077,
+      1129,
+      1143,
+      1166,
+      1173,
+      1192,
+      1276,
+      1351,
+      1376,
+      1391,
+      1455,
+      1483,
+      1498,
+      1567,
+      1594,
+      1627,
+      1661,
+      1699,
+      1760,
+      1791
+    ]
+  },
+  "isidentifi": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1265,
+      1418,
+      1525
+    ]
+  },
+  "isidentifiercharsequ": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      299,
+      1269
+    ]
+  },
+  "iskeyword": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1583,
+      1648
+    ]
+  },
+  "iskeywordcharsequ": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      322,
+      344,
+      1587,
+      1652
+    ]
+  },
+  "isnam": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1365,
+      1470
+    ]
+  },
+  "isnamecharsequ": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      368,
+      388,
+      1369,
+      1474
+    ]
+  },
+  "it": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1769,
+      1780
+    ]
+  },
+  "java": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      4,
+      55,
+      64,
+      121,
+      129,
+      139,
+      149,
+      159,
+      169,
+      179,
+      189,
+      199,
+      209,
+      220,
+      231,
+      242,
+      252,
+      262,
+      272,
+      282,
+      513,
+      529,
+      546,
+      562,
+      572,
+      593,
+      614,
+      635,
+      644,
+      675,
+      695,
+      728,
+      754,
+      789,
+      814,
+      840,
+      856,
+      872,
+      895,
+      918,
+      945,
+      1361,
+      1463,
+      1575,
+      1639,
+      1711,
+      1737,
+      1759
+    ]
+  },
+  "javacompil": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      31
+    ]
+  },
+  "javalangenum": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      99,
+      473
+    ]
+  },
+  "javalangenumsourcevers": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      38
+    ]
+  },
+  "javalangobject": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      37,
+      489
+    ]
+  },
+  "javaxlangmodel": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      33
+    ]
+  },
+  "javaxlangmodelsourcevers": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      39
+    ]
+  },
+  "jdk": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      6
+    ]
+  },
+  "keyword": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      314,
+      331,
+      355,
+      1284,
+      1321,
+      1323,
+      1357,
+      1424,
+      1440,
+      1466,
+      1531,
+      1547,
+      1578,
+      1596,
+      1613,
+      1629,
+      1642,
+      1663,
+      1680,
+      1701,
+      1714
+    ]
+  },
+  "lambda": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      737,
+      826
+    ]
+  },
+  "languag": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      57,
+      65,
+      89,
+      509,
+      514,
+      532,
+      547,
+      568,
+      573,
+      640,
+      645,
+      1140,
+      1362,
+      1464,
+      1576,
+      1640,
+      1712
+    ]
+  },
+  "later": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1121,
+      1207
+    ]
+  },
+  "latest": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      317,
+      339,
+      383,
+      410,
+      413,
+      425,
+      1079,
+      1083,
+      1086,
+      1095,
+      1109,
+      1132,
+      1152,
+      1251,
+      1255,
+      1287,
+      1384,
+      1604
+    ]
+  },
+  "latestsupport": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      422,
+      1102,
+      1106,
+      1243
+    ]
+  },
+  "legal": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      774
+    ]
+  },
+  "licens": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1794
+    ]
+  },
+  "link": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      3
+    ]
+  },
+  "liter": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      333,
+      336,
+      357,
+      360,
+      663,
+      713,
+      1328,
+      1426,
+      1430,
+      1533,
+      1537,
+      1598,
+      1601,
+      1632,
+      1635,
+      1644,
+      1647,
+      1665,
+      1668,
+      1704,
+      1707,
+      1716,
+      1719
+    ]
+  },
+  "localvari": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      798,
+      823
+    ]
+  },
+  "loop": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      659
+    ]
+  },
+  "major": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      599,
+      680
+    ]
+  },
+  "match": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      928,
+      1022,
+      1318
+    ]
+  },
+  "may": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1210,
+      1212,
+      1246
+    ]
+  },
+  "method": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      23,
+      28,
+      286,
+      291,
+      295,
+      469,
+      485,
+      741,
+      963,
+      1128,
+      1291,
+      1333,
+      1401,
+      1420,
+      1435,
+      1508,
+      1527,
+      1542,
+      1608,
+      1675
+    ]
+  },
+  "methodsconcret": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      290
+    ]
+  },
+  "methodsstat": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      289
+    ]
+  },
+  "model": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      84,
+      419,
+      1092,
+      1101,
+      1141,
+      1154,
+      1178
+    ]
+  },
+  "modifi": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      292,
+      581
+    ]
+  },
+  "modul": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      8,
+      30,
+      763
+    ]
+  },
+  "more": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1742
+    ]
+  },
+  "multicatch": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      715
+    ]
+  },
+  "must": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1021,
+      1122
+    ]
+  },
+  "n": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1181,
+      1187,
+      1205,
+      1209
+    ]
+  },
+  "name": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      300,
+      305,
+      312,
+      369,
+      374,
+      380,
+      389,
+      396,
+      402,
+      438,
+      449,
+      481,
+      776,
+      1007,
+      1018,
+      1042,
+      1044,
+      1059,
+      1072,
+      1270,
+      1275,
+      1282,
+      1296,
+      1341,
+      1370,
+      1375,
+      1381,
+      1390,
+      1445,
+      1459,
+      1467,
+      1475,
+      1482,
+      1488,
+      1497,
+      1552,
+      1571,
+      1579
+    ]
+  },
+  "navig": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      2
+    ]
+  },
+  "nest": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      19,
+      91,
+      94,
+      537
+    ]
+  },
+  "new": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      14
+    ]
+  },
+  "no": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      598,
+      679,
+      1067
+    ]
+  },
+  "not": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      304,
+      327,
+      351,
+      373,
+      395,
+      1039,
+      1213,
+      1274,
+      1374,
+      1481,
+      1592,
+      1659
+    ]
+  },
+  "note": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      74,
+      1126
+    ]
+  },
+  "notifi": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      491
+    ]
+  },
+  "notifyal": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      492
+    ]
+  },
+  "null": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      335,
+      359,
+      1078,
+      1331,
+      1429,
+      1536,
+      1600,
+      1634,
+      1646,
+      1667,
+      1706,
+      1718
+    ]
+  },
+  "nullpointerexcept": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1073
+    ]
+  },
+  "occur": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1165
+    ]
+  },
+  "of": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      53,
+      62,
+      87,
+      443,
+      459,
+      766,
+      773,
+      958,
+      976,
+      992,
+      1012,
+      1045,
+      1136,
+      1162,
+      1298,
+      1394,
+      1501,
+      1750,
+      1766
+    ]
+  },
+  "on": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1145,
+      1184,
+      1200
+    ]
+  },
+  "one": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1158
+    ]
+  },
+  "onli": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1236,
+      1308
+    ]
+  },
+  "or": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      303,
+      313,
+      326,
+      334,
+      350,
+      358,
+      372,
+      394,
+      1120,
+      1170,
+      1206,
+      1211,
+      1273,
+      1283,
+      1356,
+      1373,
+      1480,
+      1591,
+      1599,
+      1630,
+      1633,
+      1658,
+      1666,
+      1702,
+      1705,
+      1724,
+      1763
+    ]
+  },
+  "oracl": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1767,
+      1778,
+      1782
+    ]
+  },
+  "order": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      465,
+      982,
+      998
+    ]
+  },
+  "ordin": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      482
+    ]
+  },
+  "origin": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      113,
+      506
+    ]
+  },
+  "other": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1338,
+      1757,
+      1775
+    ]
+  },
+  "otherwis": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1359,
+      1461,
+      1573,
+      1637,
+      1709
+    ]
+  },
+  "overview": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      7,
+      1748
+    ]
+  },
+  "packag": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      9,
+      32
+    ]
+  },
+  "paramet": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      827,
+      1041,
+      1340,
+      1444,
+      1551,
+      1617,
+      1684
+    ]
+  },
+  "parkway": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1783
+    ]
+  },
+  "particular": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      71
+    ]
+  },
+  "pattern": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      927,
+      1317
+    ]
+  },
+  "period": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1398,
+      1505
+    ]
+  },
+  "periodsepar": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1407,
+      1514
+    ]
+  },
+  "permit": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1040
+    ]
+  },
+  "platform": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      122,
+      130,
+      140,
+      150,
+      160,
+      170,
+      180,
+      190,
+      200,
+      210,
+      221,
+      232,
+      243,
+      253,
+      263,
+      273,
+      283,
+      530,
+      563,
+      594,
+      615,
+      636,
+      676,
+      696,
+      729,
+      755,
+      790,
+      815,
+      841,
+      857,
+      873,
+      896,
+      919,
+      946,
+      1147,
+      1185,
+      1201,
+      1238
+    ]
+  },
+  "polici": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1800
+    ]
+  },
+  "preview": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      13
+    ]
+  },
+  "processor": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1222,
+      1234
+    ]
+  },
+  "program": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      56
+    ]
+  },
+  "public": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      46,
+      500,
+      519,
+      552,
+      583,
+      604,
+      625,
+      665,
+      685,
+      718,
+      744,
+      779,
+      804,
+      830,
+      846,
+      862,
+      885,
+      908,
+      935,
+      966,
+      1003,
+      1080,
+      1103,
+      1266,
+      1366,
+      1471,
+      1584,
+      1649
+    ]
+  },
+  "qualifi": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      379,
+      401,
+      1380,
+      1389,
+      1487,
+      1496
+    ]
+  },
+  "recogn": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      118,
+      126,
+      136,
+      146,
+      156,
+      166,
+      176,
+      186,
+      196,
+      206,
+      217,
+      228,
+      239,
+      249,
+      259,
+      269,
+      279,
+      526,
+      559,
+      590,
+      611,
+      632,
+      672,
+      692,
+      725,
+      751,
+      786,
+      811,
+      837,
+      853,
+      869,
+      892,
+      915,
+      942
+    ]
+  },
+  "record": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      932
+    ]
+  },
+  "redistribut": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1799
+    ]
+  },
+  "redwood": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1784
+    ]
+  },
+  "refer": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1731
+    ]
+  },
+  "regist": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1764
+    ]
+  },
+  "regular": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1319
+    ]
+  },
+  "releas": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      86,
+      111,
+      115,
+      123,
+      133,
+      143,
+      153,
+      163,
+      173,
+      183,
+      193,
+      203,
+      214,
+      225,
+      236,
+      246,
+      256,
+      266,
+      276,
+      499,
+      504,
+      518,
+      523,
+      534,
+      551,
+      556,
+      582,
+      587,
+      602,
+      603,
+      608,
+      624,
+      629,
+      650,
+      664,
+      669,
+      683,
+      684,
+      689,
+      702,
+      717,
+      722,
+      735,
+      743,
+      748,
+      761,
+      778,
+      783,
+      796,
+      803,
+      808,
+      821,
+      829,
+      834,
+      845,
+      850,
+      861,
+      866,
+      879,
+      884,
+      889,
+      902,
+      907,
+      912,
+      925,
+      934,
+      939,
+      952,
+      1119,
+      1244,
+      1252
+    ]
+  },
+  "remov": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      765
+    ]
+  },
+  "report": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1721
+    ]
+  },
+  "reserv": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1789
+    ]
+  },
+  "restor": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      957
+    ]
+  },
+  "restrict": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1322,
+      1324,
+      1439,
+      1442,
+      1546,
+      1549,
+      1612,
+      1615,
+      1679,
+      1682
+    ]
+  },
+  "return": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      301,
+      324,
+      348,
+      370,
+      392,
+      411,
+      423,
+      439,
+      453,
+      970,
+      986,
+      1008,
+      1051,
+      1052,
+      1084,
+      1093,
+      1107,
+      1124,
+      1253,
+      1271,
+      1292,
+      1305,
+      1314,
+      1334,
+      1346,
+      1371,
+      1421,
+      1436,
+      1450,
+      1478,
+      1528,
+      1543,
+      1562,
+      1589,
+      1609,
+      1623,
+      1656,
+      1676,
+      1695
+    ]
+  },
+  "right": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1788
+    ]
+  },
+  "run": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1144,
+      1183,
+      1188,
+      1197,
+      1227
+    ]
+  },
+  "s": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      323,
+      328,
+      345,
+      352,
+      1588,
+      1593,
+      1618,
+      1626,
+      1653,
+      1660,
+      1685,
+      1698
+    ]
+  },
+  "se": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      5,
+      1738
+    ]
+  },
+  "seal": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      954
+    ]
+  },
+  "search": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      29
+    ]
+  },
+  "second": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      575
+    ]
+  },
+  "see": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      58,
+      1360,
+      1462,
+      1574,
+      1638,
+      1710,
+      1735
+    ]
+  },
+  "segment": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1408,
+      1414,
+      1433,
+      1515,
+      1521,
+      1540
+    ]
+  },
+  "semant": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      961
+    ]
+  },
+  "separ": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1396,
+      1503
+    ]
+  },
+  "sequenc": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1393,
+      1500
+    ]
+  },
+  "serializ": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      43
+    ]
+  },
+  "set": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      772
+    ]
+  },
+  "shore": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1785
+    ]
+  },
+  "should": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1235
+    ]
+  },
+  "similar": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1171
+    ]
+  },
+  "simpl": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      311,
+      621,
+      1281
+    ]
+  },
+  "sinc": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      90,
+      716,
+      742,
+      777,
+      802,
+      828,
+      844,
+      860,
+      883,
+      906,
+      933,
+      962,
+      1582,
+      1720
+    ]
+  },
+  "singl": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      768
+    ]
+  },
+  "situat": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1137,
+      1163
+    ]
+  },
+  "skip": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1
+    ]
+  },
+  "sort": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1161
+    ]
+  },
+  "sourc": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      51,
+      72,
+      77,
+      318,
+      340,
+      364,
+      384,
+      406,
+      414,
+      426,
+      1087,
+      1096,
+      1110,
+      1179,
+      1256,
+      1288,
+      1385,
+      1492,
+      1605,
+      1672
+    ]
+  },
+  "sourcevers": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      36,
+      48,
+      346,
+      390,
+      409,
+      421,
+      436,
+      451,
+      503,
+      522,
+      555,
+      586,
+      607,
+      628,
+      668,
+      688,
+      721,
+      747,
+      782,
+      807,
+      833,
+      849,
+      865,
+      888,
+      911,
+      938,
+      968,
+      1005,
+      1082,
+      1105,
+      1476,
+      1654
+    ]
+  },
+  "specif": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      66,
+      515,
+      548,
+      574,
+      646,
+      1363,
+      1465,
+      1577,
+      1641,
+      1713
+    ]
+  },
+  "specifi": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      448,
+      1017,
+      1058,
+      1071
+    ]
+  },
+  "split": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1402,
+      1509
+    ]
+  },
+  "standard": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      131,
+      141,
+      151,
+      161,
+      171,
+      181,
+      191,
+      201,
+      211,
+      222,
+      233,
+      244,
+      254,
+      264,
+      274,
+      284,
+      564,
+      595,
+      616,
+      637,
+      677,
+      697,
+      730,
+      756,
+      791,
+      816,
+      842,
+      858,
+      874,
+      897,
+      920,
+      947
+    ]
+  },
+  "static": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      297,
+      320,
+      342,
+      366,
+      386,
+      408,
+      420,
+      435,
+      450,
+      501,
+      520,
+      553,
+      584,
+      605,
+      626,
+      666,
+      686,
+      719,
+      745,
+      780,
+      805,
+      831,
+      847,
+      863,
+      886,
+      909,
+      936,
+      967,
+      1004,
+      1081,
+      1104,
+      1267,
+      1367,
+      1472,
+      1585,
+      1650
+    ]
+  },
+  "strictfp": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      580
+    ]
+  },
+  "string": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      709,
+      1020,
+      1339,
+      1343,
+      1350,
+      1405,
+      1447,
+      1454,
+      1512,
+      1554,
+      1566,
+      1620,
+      1687
+    ]
+  },
+  "subject": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1792
+    ]
+  },
+  "suggest": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1725
+    ]
+  },
+  "summari": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      18,
+      93,
+      105,
+      287
+    ]
+  },
+  "support": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      429,
+      652,
+      1113,
+      1193,
+      1259
+    ]
+  },
+  "switch": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      711,
+      881
+    ]
+  },
+  "syntact": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      308,
+      377,
+      399,
+      1278,
+      1353,
+      1378,
+      1387,
+      1457,
+      1485,
+      1494,
+      1569
+    ]
+  },
+  "syntax": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      705,
+      824
+    ]
+  },
+  "term": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1751,
+      1795
+    ]
+  },
+  "text": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      904
+    ]
+  },
+  "than": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1150,
+      1204,
+      1208,
+      1249
+    ]
+  },
+  "that": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      75,
+      416,
+      1089,
+      1098,
+      1160
+    ]
+  },
+  "the": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      54,
+      59,
+      63,
+      88,
+      112,
+      116,
+      120,
+      124,
+      128,
+      134,
+      138,
+      144,
+      148,
+      154,
+      158,
+      164,
+      168,
+      174,
+      178,
+      184,
+      188,
+      194,
+      198,
+      204,
+      208,
+      215,
+      219,
+      226,
+      230,
+      237,
+      241,
+      247,
+      251,
+      257,
+      261,
+      267,
+      271,
+      277,
+      281,
+      316,
+      338,
+      362,
+      382,
+      404,
+      412,
+      424,
+      431,
+      440,
+      447,
+      457,
+      464,
+      505,
+      508,
+      512,
+      524,
+      528,
+      531,
+      542,
+      545,
+      557,
+      561,
+      567,
+      571,
+      579,
+      588,
+      592,
+      609,
+      613,
+      630,
+      634,
+      639,
+      643,
+      670,
+      674,
+      690,
+      694,
+      723,
+      727,
+      749,
+      753,
+      771,
+      784,
+      788,
+      809,
+      813,
+      835,
+      839,
+      851,
+      855,
+      867,
+      871,
+      890,
+      894,
+      913,
+      917,
+      940,
+      944,
+      974,
+      981,
+      990,
+      997,
+      1009,
+      1016,
+      1019,
+      1043,
+      1046,
+      1053,
+      1057,
+      1070,
+      1075,
+      1085,
+      1094,
+      1108,
+      1115,
+      1139,
+      1151,
+      1156,
+      1175,
+      1195,
+      1229,
+      1233,
+      1242,
+      1250,
+      1254,
+      1261,
+      1286,
+      1290,
+      1295,
+      1327,
+      1332,
+      1342,
+      1383,
+      1403,
+      1428,
+      1446,
+      1490,
+      1510,
+      1535,
+      1553,
+      1558,
+      1603,
+      1619,
+      1645,
+      1670,
+      1686,
+      1691,
+      1717,
+      1736,
+      1772,
+      1797
+    ]
+  },
+  "they": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      466,
+      983,
+      999
+    ]
+  },
+  "third": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      647
+    ]
+  },
+  "this": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      444,
+      460,
+      701,
+      734,
+      760,
+      795,
+      820,
+      878,
+      901,
+      924,
+      951,
+      977,
+      993,
+      1013,
+      1033,
+      1063,
+      1127,
+      1190,
+      1316,
+      1349,
+      1400,
+      1419,
+      1434,
+      1453,
+      1507,
+      1526,
+      1541,
+      1565,
+      1607,
+      1674
+    ]
+  },
+  "throw": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1060
+    ]
+  },
+  "to": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      83,
+      544,
+      651,
+      1027,
+      1049,
+      1133,
+      1177,
+      1226,
+      1241,
+      1344,
+      1412,
+      1448,
+      1519,
+      1555,
+      1560,
+      1621,
+      1688,
+      1693,
+      1793
+    ]
+  },
+  "tool": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1172
+    ]
+  },
+  "tostr": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      483
+    ]
+  },
+  "trademark": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1762,
+      1765
+    ]
+  },
+  "tree": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      12
+    ]
+  },
+  "true": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1293,
+      1306,
+      1315,
+      1329,
+      1347,
+      1437,
+      1451,
+      1544,
+      1563,
+      1624,
+      1696
+    ]
+  },
+  "trywithresourc": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      708
+    ]
+  },
+  "turn": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1416,
+      1523
+    ]
+  },
+  "type": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      294,
+      799
+    ]
+  },
+  "under": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1228
+    ]
+  },
+  "underscor": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      769
+    ]
+  },
+  "unlik": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1417,
+      1524
+    ]
+  },
+  "up": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1240
+    ]
+  },
+  "updat": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      543
+    ]
+  },
+  "us": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1773
+    ]
+  },
+  "usaal": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1787
+    ]
+  },
+  "use": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      11,
+      1026,
+      1174,
+      1237,
+      1561,
+      1694,
+      1790
+    ]
+  },
+  "v": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      213,
+      224,
+      235,
+      566,
+      597,
+      618
+    ]
+  },
+  "valid": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      309,
+      378,
+      400,
+      1279,
+      1354,
+      1379,
+      1458,
+      1486,
+      1570
+    ]
+  },
+  "valu": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      452,
+      965,
+      969
+    ]
+  },
+  "valueof": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      484,
+      1002
+    ]
+  },
+  "valueofstr": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      437,
+      1006
+    ]
+  },
+  "var": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      801
+    ]
+  },
+  "vararg": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      656
+    ]
+  },
+  "version": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      52,
+      73,
+      78,
+      114,
+      117,
+      125,
+      135,
+      145,
+      155,
+      165,
+      175,
+      185,
+      195,
+      205,
+      216,
+      227,
+      238,
+      248,
+      258,
+      268,
+      278,
+      319,
+      341,
+      347,
+      365,
+      385,
+      391,
+      407,
+      415,
+      427,
+      507,
+      525,
+      558,
+      589,
+      610,
+      631,
+      671,
+      691,
+      724,
+      750,
+      785,
+      810,
+      836,
+      852,
+      868,
+      891,
+      914,
+      941,
+      1088,
+      1097,
+      1111,
+      1148,
+      1153,
+      1180,
+      1186,
+      1202,
+      1257,
+      1289,
+      1386,
+      1477,
+      1493,
+      1557,
+      1559,
+      1606,
+      1655,
+      1673,
+      1690,
+      1692,
+      1758
+    ]
+  },
+  "wait": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      493,
+      494,
+      495
+    ]
+  },
+  "was": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1223
+    ]
+  },
+  "way": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1159
+    ]
+  },
+  "where": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1138
+    ]
+  },
+  "whether": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      302,
+      325,
+      349,
+      371,
+      393,
+      1272,
+      1372,
+      1479,
+      1590,
+      1657
+    ]
+  },
+  "which": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      577,
+      1245,
+      1303,
+      1312,
+      1740
+    ]
+  },
+  "while": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1182
+    ]
+  },
+  "whitespac": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1036
+    ]
+  },
+  "will": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      80
+    ]
+  },
+  "with": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      446,
+      536,
+      1015,
+      1056,
+      1069,
+      1746
+    ]
+  },
+  "work": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1214,
+      1754
+    ]
+  },
+  "workaround": {
+    "https://usf-cs272-fall2023.github.io/project-web/docs/api/java.compiler/javax/lang/model/SourceVersion.html": [
+      1752
+    ]
+  }
+}
