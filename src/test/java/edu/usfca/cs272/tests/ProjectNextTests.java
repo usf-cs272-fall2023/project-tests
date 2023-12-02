@@ -188,7 +188,9 @@ public class ProjectNextTests {
 	@Tag("next-v4.1")
 	@Tag("next-v4.x")
 	@Tag("next-v5.0")
+	@Tag("next-v5.1")
 	@Tag("test-v5.0")
+	@Tag("test-v5.1")
 	public void pass() throws Exception {
 		// No next tests for these releases!
 	}
